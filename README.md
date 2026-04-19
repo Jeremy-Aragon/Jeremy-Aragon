@@ -8,6 +8,11 @@ I am a developer and analyst who leverages **AI-augmented workflows** to build h
 - **Focus:** Data cleaning, Analysis & High-end UI/UX for Business Intelligence (BI) tools.
 
 ###  Tech Stack & Tools
+**Software Development:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![NetBeans](https://img.shields.io/badge/NetBeans-B2217C?style=for-the-badge&logo=apache-netbeans&logoColor=white) 
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 **Analysis & Database:** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,6 +24,9 @@ I am a developer and analyst who leverages **AI-augmented workflows** to build h
 ![Julius AI](https://img.shields.io/badge/Julius_AI-7B3F91?style=for-the-badge&logo=icloud&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+**Website Design & Prototyping:** ![Axure](https://img.shields.io/badge/Axure_RP_9-944194?style=for-the-badge&logo=axure&logoColor=white) 
+![UI/UX](https://img.shields.io/badge/UI/UX-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
