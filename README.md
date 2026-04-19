@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Jeremy | AI-Augmented & Current Learning Data Analytics
+# 👋 Hi, I'm Jeremy | AI-Augmented & Currently Learning Data Analyst
 
 ![Header Image](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=AI-Augmented%20Analysis&fontSize=70)
 
 ### 🚀 About Me
-I am a modern developer and analyst who leverages AI-augmented workflows to build high-performance data products. I specialize in transforming complex datasets into professional visual experiences.
+I am a modern developer and analyst who leverages **AI-augmented workflows** to build high-performance data products. I specialize in transforming complex datasets into professional, interactive visual experiences.
 
-- 🔭 **Currently working on:** Advanced Excel Dashboards and Data Analysis projects.
+- 🔭 **Currently working on:** Advanced Excel Dashboards, Python, and SQL projects.
 - ⚡ **Core Philosophy:** Human-led strategy powered by AI efficiency.
-- 🎨 **Focus:** High-end UI/UX for business intelligence tools.
+- 🎨 **Focus:** Data cleaning, Analysis & High-end UI/UX for Business Intelligence (BI) tools.
 
 ### 🛠️ Tech Stack & Tools
-**Analysis & Dev:** ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Analysis & Database:** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -20,11 +21,10 @@ I am a modern developer and analyst who leverages AI-augmented workflows to buil
 
 ---
 
-### 📈 Featured Project: Amazon Bestseller Dashboard
-*Analyzed 12 years of retail data to build a dynamic, interactive dashboard with Amazon-consistent branding.*
-[View Project](https://github.com/jeremy044/Data-Analysis)
+### 📈 Featured Project
+*Data Analysis Projects is here* 👉 [View Project Here](https://github.com/jeremy044/Data-Analysis)
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aragonjeremy143@gmail.com)
