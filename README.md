@@ -49,10 +49,10 @@ I am a developer and analyst who leverages **AI-augmented workflows** to build h
 ---
 
 ### Featured Project
-*Data Analysis Projects is here* 👉 [View Project Here](https://github.com/jeremy044/Data-Analysis)
-*Excel Things and projects are here* 👉
-*Software and Web dev Projects are here* 👉
-* Prototype & Web Design Projects are here* 👉
+- *Data Analysis Projects is here* 👉 [View Project Here](https://github.com/jeremy044/Data-Analysis)
+- *Excel Things and projects are here* 👉
+- *Software and Web dev Projects are here* 👉
+- * Prototype & Web Design Projects are here* 👉
 
 ---
 
