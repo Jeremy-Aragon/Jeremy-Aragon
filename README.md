@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy | AI-Augmented & Currently Learning Data Analyst
+# Hi, I'm Jeremy | Web & Software Developer | AI-Augmented | Virtual Assistant | Currently Learning Data Analyst
 
 ### About Me
 I am a developer and analyst who leverages **AI-augmented workflows** to build high-performance data products. I specialize in transforming complex datasets into professional, interactive visual experiences.
