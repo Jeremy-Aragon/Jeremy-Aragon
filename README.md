@@ -57,7 +57,7 @@ I am a developer and analyst who leverages **AI-augmented workflows** to build h
 
 * **📈 Excel Automation & Projects** 👉 [View Excel Projects](https://github.com/Jeremy-Aragon/Excel-Automation-and-Projects)
 
-* **💻 Software & Web Development (Java/VB.NET/HTML)** 👉 [View Software Projects](https://github.com/Jeremy-Aragon/Web-and-Software-Development)
+* **💻 Software & Web Development (Java/VB.NET/HTML etc.)** 👉 [View Software Projects](https://github.com/Jeremy-Aragon/Web-and-Software-Development)
 
 * **🎨 Prototype & Web Design (Axure RP 9)** 👉 [View Prototype & Web Design](https://github.com/Jeremy-Aragon/Prototype-and-Web-Design)
 
