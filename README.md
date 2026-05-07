@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 👋 | Web & Software Developer | AI-Augmented Developer | Virtual Assistant | Data Analytics Enthusiast
+# Hi, I'm Jeremy 👋 | Web & Software Developer | AI-Augmented Developer | Virtual Assistant | Aspiring Data Analytics
 
 ### About Me
 I am a developer and analyst who leverages **AI-augmented workflows** to build high-performance data products and intelligent digital solutions. I specialize in transforming complex datasets into professional, interactive visual experiences while integrating automation and virtual assistant solutions into modern workflows.
@@ -57,9 +57,9 @@ I am a developer and analyst who leverages **AI-augmented workflows** to build h
 
 * **📈 Excel Automation & Projects** 👉 [View Excel Projects](https://github.com/Jeremy-Aragon/Excel-Automation-and-Projects)
 
-* **💻 Software & Web Development (Java/VB.NET/HTML etc.)** 👉 [View Software Projects](https://github.com/Jeremy-Aragon/Web-and-Software-Development)
+* **💻 Software & Web Development (Java/VB.NET/HTML/etc.)** 👉 [View Software Projects](https://github.com/Jeremy-Aragon/Web-and-Software-Development)
 
-* **🎨 Prototype & Web Design (Axure RP 9)** 👉 [View Prototype & Web Design](https://github.com/Jeremy-Aragon/Prototype-and-Web-Design)
+* **🎨 Prototype & Web Design (Axure RP)** 👉 [View Prototype & Web Design](https://github.com/Jeremy-Aragon/Prototype-and-Web-Design)
 
 ---
 
