@@ -17,7 +17,7 @@
 
 > *"Human-led strategy, powered by AI efficiency."*
 
-I am a developer and analyst who leverages **AI-augmented workflows** to build high-performance data products and intelligent digital solutions. I specialize in transforming complex datasets into professional, interactive visual experiences — integrating automation and virtual assistant solutions into modern business workflows.
+I am a developer and analyst who leverages **AI-augmented workflows** to build high-performance data products and intelligent digital solutions. I specialize in transforming complex datasets into professional, interactive visual experiences, integrating automation and virtual assistant solutions into modern business workflows.
 
 ```yaml
 Name        : Jeremy Aragon
